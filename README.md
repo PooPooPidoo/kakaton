@@ -1,7 +1,8 @@
 Программа распознавания цифр с водопроводного счетчика с хакатона, до конца недопилена, но работает.
 
 
-README.txt:The only one working script is meter_water.py
+README.txt:
+The only one working script is meter_water.py
 others are testsheets
 
 
