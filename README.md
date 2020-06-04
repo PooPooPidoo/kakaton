@@ -2,7 +2,6 @@
 
 
 README.txt:
-
 The only one working script is meter_water.py
 others are testsheets
 
