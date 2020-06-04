@@ -6,7 +6,7 @@ The only one working script is meter_water.py
 others are testsheets
 
 
-The Neural Network models:` \n
+The Neural Network models:
 1emnist_letters.h5 - 72% accuracy
 emnist_letters2.h5 - 82& accuracy
 emnist_digits.h5 - 98% accuracy
